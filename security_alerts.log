@@ -1,0 +1,1 @@
+2025-07-30 20:38:49,777 - INFO - Threat logged: {"timestamp": "2025-07-30T20:38:49.777330", "threat_type": "malware", "confidence": 0.92, "severity": "CRITICAL", "email_length": 130, "additional_info": {}}
